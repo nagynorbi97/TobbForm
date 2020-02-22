@@ -135,7 +135,7 @@
     <value>Megjegyzés:
    A dizájnerben letiltottam az ablakok ControlBox-át,
  azaz a kicsinyítés nagyítás bezárást.
-   A keretet eltávolíthatjátok szintén a dizéjnerben,
+   A keretet eltávolíthatjátok szintén a dizájnerben,
  így fejlesztéskor tudjátok, hogy ez nem főablak.
   Érdemes az ablakkeretet így csinálni ahogy én azért,
  hogy normálisan látszódjon fejlesztéskor, az ablakcímet
