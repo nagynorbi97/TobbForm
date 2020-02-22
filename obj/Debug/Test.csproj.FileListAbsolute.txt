@@ -1,0 +1,12 @@
+C:\Users\Norbi\source\repos\Test\bin\Debug\Test.exe.config
+C:\Users\Norbi\source\repos\Test\bin\Debug\Test.exe
+C:\Users\Norbi\source\repos\Test\bin\Debug\Test.pdb
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.exe
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.pdb
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.ablak.resources
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.fooldal.resources
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.teszt1.resources
+C:\Users\Norbi\source\repos\Test\obj\Debug\Test.leiras.resources
